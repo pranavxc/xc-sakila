@@ -54,7 +54,7 @@
     "express-graphql": "^0.9.0",
     "express-rate-limit": "^5.1.1",
     "express-session": "^1.17.0",
-    "express-status-monitor": "^1.2.10",
+    "express-status-monitor": "^1.3.4",
     "glob": "latest",
     "graphql": "^14.5.8",
     "handlebars": "^4.7.6",
